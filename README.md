@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shania!</h1>
 <h3 align="center">Tech Fanatic | Curious Learner</h3>
 
+<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.redbubble.com%2Fi%2Fart-print%2Fcute-anime-girl-coding-while-her-cat-is-sleeping-pixel-art-by-pixle-penguin%2F150051024.1G4ZT&psig=AOvVaw1uoc3P9EDh6soQZPhD_pBn&ust=1716985042111000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCODotvapsIYDFQAAAAAdAAAAABAR">
 
 - 🌱 I’m currently learning **Web3 technologies**
 
