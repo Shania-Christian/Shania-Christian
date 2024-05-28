@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shania!</h1>
-<h3 align="center">Tech Fanatic | Curious Learner</h3>
+<h3 align="center">Final Year Student | Tech Fanatic | Curious Learner</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media1.tenor.com/m/WkgpyPpxpDUAAAAC/work-internet.gif">
 
