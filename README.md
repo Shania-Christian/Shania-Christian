@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **shania003c@gmail.com**
 
-- ⚡ Fun fact **I can spend hours diving into the depths of cybersecurity blogs and dark web mysteries.**
+- ⚡ Fun fact **I can spend hours diving into the depths of cybersecurity blogs.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
