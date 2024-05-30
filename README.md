@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shania!</h1>
 <h3 align="center">Final Year Student | Tech Fanatic | Curious Learner</h3>
 
-<img align="right" alt="Coding" width="400" src="https://png.pngtree.com/background/20221031/original/pngtree-abstract-neon-light-background-picture-image_1932023.jpg">
 
 - 🌱 I’m currently learning **Web3 technologies**
 
