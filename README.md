@@ -4,11 +4,11 @@
 
 - 🌱 I’m currently learning **Web3 technologies**
 
-- 💬 Ask me about **HTML, CSS, JavaScript, Node.js, MongoDB, Linux, Virtualisation, Cybersecurity**
+- 💬 Ask me about **HTML, CSS, JavaScript, Node.js, MongoDB, Linux, Virtualisation, Cybersecurity, Blockchain**
 
 - 📫 How to reach me **shania003c@gmail.com**
 
-- ⚡ Fun fact **I can spend hours diving into the depths of cybersecurity blogs.**
+- ⚡ Fun fact **I can spend hours diving into the depths of Blockchain blogs.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
